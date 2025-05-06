@@ -1,10 +1,10 @@
 # Site settings
-title: *folio
+title: NDOF-Portfolio
 email: you@example.com
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   A simple, whitespace, helvetica based portfolio theme.
-baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
+baseurl: /portfolio/
+url: https://nordicpuff.github.io
 twitter_username: twitter_username
 github_username:  github_username
 
@@ -15,7 +15,7 @@ highlighter: rouge
 
 # Pagination
 paginate: 15
-paginate_path: "/blog/page:num/"
+paginate_path: "/about/page:num/"
 
 
 collections:
