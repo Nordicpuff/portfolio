@@ -3,7 +3,7 @@ title: NDPF-Portfolio
 email: you@example.com
 description: >
   A simple, whitespace, helvetica based portfolio theme.
-baseurl: /portfolio/
+baseurl: /portfolio
 url: https://nordicpuff.github.io
 twitter_username: twitter_username
 github_username:  github_username
