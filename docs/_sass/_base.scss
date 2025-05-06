@@ -38,6 +38,7 @@ $text-color:     #666;
 
 /* Set theme color *************************/
 $theme-color:   $orange;
+$background-color:  $lime_green;
 
 
 /************************************************************/
@@ -170,7 +171,7 @@ pre,
 code {
     font-size: 15px;
     border-radius: 3px;
-    background-color: $lime_green;
+    background-color: $background-color;
 }
 
 code {
