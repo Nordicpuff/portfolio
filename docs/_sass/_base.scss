@@ -9,13 +9,13 @@ dl, dd, ol, ul, figure {
 }
 
 @font-face {
-    font-family: futura;
-    src: url('./unicode.futurab.ttf'); /*URL to font*/
+    font-family: futura2;
+    src: url('./test.ttf'); /*URL to font*/
 }
 
 
 /** Variables **********************************************/
-$base-font-family:              futura;
+$base-font-family:              futura2;
 $base-line-height:              1.5em;
 $horizontal-spacing-unit:       50px;
 $vertical-spacing-unit:         40px;
@@ -35,7 +35,7 @@ $green: #11D68B;
 $lime_green: #B7D12A;
 $dark_green: #f0f1e8;
 $purple: #B509AC;
-$yellow: #FFD300;
+$yellow: #FEE12B;
 
 
 $grey-color-dark: #333;   /* footer */
@@ -44,7 +44,7 @@ $text-color:     #666;
 
 /* Set theme color *************************/
 $theme-color:   $yellow;
-$background-color:  $dark_green;
+$background-color:  $blue;
 
 
 /************************************************************/
