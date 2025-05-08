@@ -9,13 +9,13 @@ dl, dd, ol, ul, figure {
 }
 
 @font-face {
-    font-family: 'futura ';
+    font-family: futura;
     src: url('./unicode.futurab.ttf'); /*URL to font*/
 }
 
 
 /** Variables **********************************************/
-$base-font-family:              'futura';
+$base-font-family:              futura;
 $base-line-height:              1.5em;
 $horizontal-spacing-unit:       50px;
 $vertical-spacing-unit:         40px;

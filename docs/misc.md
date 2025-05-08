@@ -4,7 +4,7 @@ title: Misc
 permalink: /misc/
 ---
 
-{% for project in site.portfolio %}
+{% for project in site.misc %}
 
 {% if project.redirect %}
 <div class="project">
