@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Photos
-permalink: /photo/
+title: Illustrations
+permalink: /illustrations/
 ---
 
 

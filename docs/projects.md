@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /poetry/
-title: Poetry
+title: Projects
+permalink: /projects/
 description: Showcase your writing, short stories, or poems. Replace this text with your description.
 ---
 

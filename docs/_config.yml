@@ -19,11 +19,9 @@ paginate_path: "/about/page:num/"
 
 
 collections:
-  portfolio:
+  projects:
     output: true
-    permalink: /portfolio/:path/
-  poetry:
+    permalink: /projects/:path/
+  misc:
     output: true
-    permalink: /poetry/:path/
-
-
+    permalink: /misc/:path/

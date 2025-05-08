@@ -8,10 +8,14 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
+@font-face {
+    font-family: 'futura ';
+    src: url('./unicode.futurab.ttf'); /*URL to font*/
+}
 
 
 /** Variables **********************************************/
-$base-font-family:              Georgia, serif;
+$base-font-family:              'futura';
 $base-line-height:              1.5em;
 $horizontal-spacing-unit:       50px;
 $vertical-spacing-unit:         40px;
@@ -31,6 +35,7 @@ $green: #11D68B;
 $lime_green: #B7D12A;
 $dark_green: #f0f1e8;
 $purple: #B509AC;
+$yellow: #FFD300;
 
 
 $grey-color-dark: #333;   /* footer */
@@ -38,7 +43,7 @@ $grey-color-light: #ddd;  /* navigation bar border */
 $text-color:     #666;
 
 /* Set theme color *************************/
-$theme-color:   $purple;
+$theme-color:   $yellow;
 $background-color:  $dark_green;
 
 
