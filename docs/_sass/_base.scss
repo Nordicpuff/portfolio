@@ -8,14 +8,9 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-@font-face {
-    font-family: futura2;
-    src: url('./test.ttf'); /*URL to font*/
-}
-
 
 /** Variables **********************************************/
-$base-font-family:              futura2;
+$base-font-family:              "Outfit", sans-serif;
 $base-line-height:              1.5em;
 $horizontal-spacing-unit:       50px;
 $vertical-spacing-unit:         40px;
@@ -40,7 +35,7 @@ $yellow: #FEE12B;
 
 $grey-color-dark: #333;   /* footer */
 $grey-color-light: #ddd;  /* navigation bar border */
-$text-color:     #666;
+$text-color:     #FFF;
 
 /* Set theme color *************************/
 $theme-color:   $yellow;
@@ -57,6 +52,7 @@ body {
     font-size: $base-font-size;
     line-height: $base-line-height;
     font-weight: 100;
+    font-style: normal;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
