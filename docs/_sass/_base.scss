@@ -39,7 +39,7 @@ $text-color:     #FFF;
 
 /* Set theme color *************************/
 $theme-color:   $yellow;
-$background-color:  $white;
+$background-color:  $dark_green;
 
 
 /************************************************************/
@@ -51,7 +51,7 @@ body {
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 400;
+    font-weight: 700;
     font-style: normal;
     color: $text-color;
     background-color: $background-color;
