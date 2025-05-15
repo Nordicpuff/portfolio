@@ -207,8 +207,8 @@ pre {
     max-width:         calc(900px - (#{$horizontal-spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
-    padding-right: $horizontal-spacing-unit;
-    padding-left: $horizontal-spacing-unit;
+    padding-right: 70px;
+    padding-left: 40px;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
