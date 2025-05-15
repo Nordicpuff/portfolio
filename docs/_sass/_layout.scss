@@ -151,6 +151,10 @@ text-align: center;
 /**
  * Posts  **********************************************************
  */
+.post {
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+}
 .post-header {
 margin-bottom: $vertical-spacing-unit;
 }
