@@ -214,8 +214,8 @@ pre {
     @include media-query($on-laptop) {
         max-width: -webkit-calc(900px - (#{$horizontal-spacing-unit}));
         max-width:         calc(900px - (#{$horizontal-spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
+        padding-right: 70px;
+        padding-left: 40px;
     }
 }
 
