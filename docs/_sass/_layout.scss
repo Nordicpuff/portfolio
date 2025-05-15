@@ -10,6 +10,7 @@
 .site-header {
 border-bottom: 1px solid $grey-color-light;
 background-color: $yellow;
+font-family: $title-font-family;
 opacity: 1.00;
 position:fixed;
 left:0px;
@@ -25,7 +26,9 @@ display: table-cell;
 .site-header a {
   display: table-row;
   padding: 12px;
+  
   text-decoration: none;
+  color: #FFFFFF
 }
 
 .site-header a:hover {
@@ -76,7 +79,7 @@ color: $theme-color;
     z-index: 25;
     h1{
         color: $theme-color;
-        font-size:75px;
+        font-size:90px;
     }
     h2{
         font-size:25px;
