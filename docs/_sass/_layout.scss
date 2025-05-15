@@ -10,7 +10,7 @@
 .site-header {
 border-bottom: 1px solid $grey-color-light;
 background-color: $yellow;
-opacity: 0.75;
+opacity: 1.00;
 position:fixed;
 left:0px;
 top:0px;
@@ -29,7 +29,7 @@ display: table-cell;
 }
 
 .site-header a:hover {
-  background-color: #ccc;
+  background-color: #d9d9d9;
 }
 
 .site-header a.active {
