@@ -11,6 +11,7 @@ dl, dd, ol, ul, figure {
 
 /** Variables **********************************************/
 $base-font-family:              "Outfit", sans-serif;
+$title-font-family:             "Plaster";
 $base-line-height:              1.5em;
 $horizontal-spacing-unit:       50px;
 $vertical-spacing-unit:         40px;
@@ -118,8 +119,8 @@ li {
  * Headings
  */
 h1 {
-    font-family: 'Plaster'
-    font-weight: 400;
+    font-family: $title-font-family;
+    
 }
 
 h2, h3, h4, h5, h6 {
