@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Illustrations
-permalink: /illustrations/
+title: Gallery
+permalink: /gallery/
 ---
 
 

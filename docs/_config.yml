@@ -22,6 +22,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  misc:
+  updates:
     output: true
-    permalink: /misc/:path/
+    permalink: /updates/:path/
