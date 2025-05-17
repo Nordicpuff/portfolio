@@ -2,6 +2,7 @@
 layout: post
 title: The Emperor of Ice Cream
 date: 2015-07-06 07:59:00
+img: /img/1.jpg
 ---
 
 Call the roller of big cigars,    

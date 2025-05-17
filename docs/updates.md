@@ -9,7 +9,7 @@ permalink: /updates/
     <li>
         <h2><a class="update-title" href="{{ update.url | prepend: site.baseurl }}">{{ update.title }}</a></h2>
         <p class="post-meta">{{ update.date | date: '%B %-d, %Y — %H:%M' }}</p>
-        <img src="{{ ../img/update.title.jpg }}" style="width:300px;">
+        <img src="{{ update.img }}" style="width:300px;">
     </li>
 {% endfor %}
 </ul>
