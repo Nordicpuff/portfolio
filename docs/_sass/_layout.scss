@@ -17,9 +17,9 @@ left:0px;
 top:0px;
 height:97%;
 width:33%;
-min-width: 300px;
+min-width: 420px;
 min-height: 700px;
-max-width: 440px;
+max-width: 460px;
 display: table-cell;
 }
 
@@ -128,7 +128,7 @@ color: $theme-color;
  * Page content   **********************************************************
  */
 .page-content {
-padding: 125px 0 0 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+padding: 125px 7vw 0 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
 height:97%;
 width:67%;
 display: table-cell;
