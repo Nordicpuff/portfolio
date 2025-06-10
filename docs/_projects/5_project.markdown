@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: Tesla Coil
+description: Papercut, screenprint 
 img: ../img/IMG_7740 Medium.jpg
 ---
 
