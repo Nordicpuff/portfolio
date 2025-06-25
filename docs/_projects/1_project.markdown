@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Out of the Cradle Endlessly Rocking
+title: OotCER
 description: Fanzine, 2023-2024
 img: ../img/z zcz Medium.jpeg
 ---
 
 Collaborative fanzine my group made for animanga series Bleach. 
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+Title: Out of the Cradle Endlessly Rocking is taken from Leaves of Grass, Walt Whitman.
 
 	---
 	layout: post
