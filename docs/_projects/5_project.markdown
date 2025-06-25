@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tesla Coil
-description: Papercut screenprint 
+description: Papercut screenprint, 2023
 img: ../img/IMG_7661.jpg
 ---
 
