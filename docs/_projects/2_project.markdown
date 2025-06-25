@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Empire Collection
+title: Galactic Empire Collection
 description: Postcard Set, 2024
 img: ../img/IMG_6629.JPG
 ---
