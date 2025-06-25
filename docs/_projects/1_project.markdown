@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: Out of the Cradle Endlessly Rocking
+description: Fanzine, 2023-2024
 img: ../img/1.jpg
 ---
 
