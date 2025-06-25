@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
+	<img class="col one left" src="./img/IMG_0151.png">
 	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
 </div>
