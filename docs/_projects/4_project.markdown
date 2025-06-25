@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Project
-description: another without an image
-img: ../img/IMG_6629.JPG
+title: Exoskeleton
+description: RISO print, 2023
+img: ../img/IMG_8835.jpg
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
