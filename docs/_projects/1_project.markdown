@@ -8,9 +8,8 @@ img: ../img/z zcz Medium.jpeg
 Collaborative fanzine my group made for animanga series Bleach. 
 Title: Out of the Cradle Endlessly Rocking is taken from Leaves of Grass, Walt Whitman.
 
-<img class="col one" src="{{ site.baseurl }}/img/promo7.jpeg" alt="" title="example image"/>
 
-<div class="img_row">
+<div class="img_col">
 	<img class="col one" src="{{ site.baseurl }}/img/promo7.jpeg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
