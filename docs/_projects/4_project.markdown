@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exoskeleton
+title: Exo- skeleton
 description: RISO print, 2023
 img: ../img/IMG_8835.jpg
 ---
